@@ -46,3 +46,7 @@ Thumbs.db
 # Logs
 *.log
 
+# Database files
+*.db
+database/*.db
+hospital.db
