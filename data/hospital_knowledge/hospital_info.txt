@@ -1,0 +1,141 @@
+HOSPITAL INFORMATION
+
+DEPARTMENTS AND DOCTORS:
+
+CARDIOLOGY:
+- Dr. John Smith - Cardiologist - Mon-Fri 9AM-5PM
+- Dr. Sarah Johnson - Cardiologist - Mon-Fri 10AM-6PM
+- Dr. James Williams - Interventional Cardiologist - Mon-Fri 8AM-4PM
+
+ORTHOPEDICS:
+- Dr. Michael Brown - Orthopedic Surgeon - Mon-Fri 9AM-5PM
+- Dr. Emily Davis - Sports Medicine Specialist - Mon-Fri 10AM-6PM
+- Dr. Christopher Martinez - Joint Replacement Specialist - Mon-Fri 9AM-5PM
+
+PEDIATRICS:
+- Dr. Robert Wilson - Pediatrician - Mon-Fri 9AM-5PM
+- Dr. Lisa Anderson - Child Development Specialist - Mon-Fri 10AM-6PM
+- Dr. Amanda Garcia - Pediatric Endocrinologist - Mon-Fri 8AM-4PM
+
+GENERAL MEDICINE:
+- Dr. David Martinez - General Physician - Mon-Fri 9AM-5PM
+- Dr. Jennifer Lee - Internal Medicine - Mon-Fri 10AM-6PM
+- Dr. Thomas Rodriguez - Family Medicine - Mon-Fri 8AM-4PM
+
+EMERGENCY:
+- Dr. Patricia Taylor - Emergency Medicine - 24/7
+- Dr. William Anderson - Trauma Specialist - 24/7
+- Dr. Linda Thomas - Emergency Physician - 24/7
+
+ENDOCRINOLOGY:
+- Dr. Richard Harris - Endocrinologist - Mon-Fri 9AM-5PM
+- Dr. Barbara Jackson - Diabetes Specialist - Mon-Fri 10AM-6PM
+- Dr. Joseph White - Thyroid Specialist - Mon-Fri 8AM-4PM
+
+DERMATOLOGY:
+- Dr. Nancy Martin - Dermatologist - Mon-Fri 9AM-5PM
+- Dr. Kevin Johnson - Cosmetic Dermatologist - Mon-Fri 10AM-6PM
+- Dr. Karen Thompson - Pediatric Dermatologist - Mon-Fri 8AM-4PM
+
+GASTROENTEROLOGY:
+- Dr. Steven Clark - Gastroenterologist - Mon-Fri 9AM-5PM
+- Dr. Daniel Walker - GI Surgeon - Mon-Fri 10AM-6PM
+- Dr. Michelle Lewis - Hepatologist - Mon-Fri 8AM-4PM
+
+OPHTHALMOLOGY:
+- Dr. Brian Moore - Ophthalmologist - Mon-Fri 9AM-5PM
+- Dr. Dorothy Hall - Retina Specialist - Mon-Fri 10AM-6PM
+- Dr. George Allen - Cataract Surgeon - Mon-Fri 8AM-4PM
+
+NEUROLOGY:
+- Dr. Betty Young - Neurologist - Mon-Fri 9AM-5PM
+- Dr. Ronald King - Epilepsy Specialist - Mon-Fri 10AM-6PM
+- Dr. Helen Wright - Stroke Specialist - Mon-Fri 8AM-4PM
+
+UROLOGY:
+- Dr. Paul Scott - Urologist - Mon-Fri 9AM-5PM
+- Dr. Sandra Green - Pediatric Urologist - Mon-Fri 10AM-6PM
+- Dr. Mark Adams - Kidney Specialist - Mon-Fri 8AM-4PM
+
+ENT (EAR, NOSE, THROAT):
+- Dr. Jason Carter - Otolaryngologist - Mon-Fri 9AM-5PM
+- Dr. Olivia Nelson - ENT Specialist - Mon-Fri 10AM-6PM
+- Dr. Stephanie Mitchell - Head & Neck Surgeon - Mon-Fri 8AM-4PM
+
+OPD TIMINGS:
+- Monday to Friday: 9:00 AM - 5:00 PM
+- Saturday: 9:00 AM - 1:00 PM
+- Sunday: Closed (Emergency services available 24/7)
+
+APPOINTMENT BOOKING:
+- Online: Visit our website or use the chatbot
+- Phone: +1-234-567-8900
+- Walk-in: Available but appointments are recommended
+- Booking hours: 8:00 AM - 6:00 PM (Monday to Saturday)
+
+SERVICES:
+- Emergency Services (24/7)
+- Outpatient Services (OPD)
+- Inpatient Services
+- Laboratory Services (Blood tests, Urinalysis, Pathology)
+- Radiology and Imaging (X-Ray, CT Scan, MRI, Ultrasound)
+- Pharmacy (24/7)
+- Ambulance Services (24/7)
+- ICU and Critical Care
+- Surgery and Operating Theaters
+- Maternity and Obstetrics
+- Physiotherapy and Rehabilitation
+
+LOCATION:
+123 Medical Center Drive
+Healthcare City, HC 12345
+United States
+
+CONTACT:
+Phone: +1-234-567-8900
+Email: info@hospital.com
+Emergency: 108 or 911
+
+EMERGENCY:
+For medical emergencies, call 108 or 911 immediately.
+The Emergency Department is open 24/7 with specialized trauma care.
+
+COMMON SYMPTOMS AND RECOMMENDED DEPARTMENTS:
+- Chest pain, heart problems → Cardiology
+- Joint pain, fractures, sports injuries → Orthopedics
+- Children's health issues → Pediatrics
+- General health checkup, fever, cold → General Medicine
+- Severe injuries, accidents → Emergency
+- Diabetes, thyroid issues → Endocrinology
+- Skin problems, rashes, acne → Dermatology
+- Stomach pain, digestive issues → Gastroenterology
+- Eye problems, vision issues → Ophthalmology
+- Headaches, seizures, neurological issues → Neurology
+- Kidney problems, urinary issues → Urology
+- Ear, nose, throat problems → ENT
+
+FREQUENTLY ASKED QUESTIONS:
+
+Q: How do I book an appointment?
+A: You can book online through our chatbot, call our appointment desk at +1-234-567-8900, or visit in person.
+
+Q: What documents do I need?
+A: Please bring a valid ID, insurance card (if applicable), and any previous medical records or prescriptions.
+
+Q: Is parking available?
+A: Yes, free parking is available for patients and visitors in our main parking lot.
+
+Q: What are the visiting hours?
+A: General visiting hours are 10:00 AM - 8:00 PM. ICU visiting hours are restricted and may vary. Please check with the nursing station.
+
+Q: Do you accept insurance?
+A: Yes, we accept most major insurance plans including Medicare and Medicaid. Please contact our billing department for specific plan details.
+
+Q: How do I get my test results?
+A: Test results are typically available within 24-48 hours. You can collect them from the lab or access them through our patient portal.
+
+Q: Do you have emergency services?
+A: Yes, our Emergency Department is open 24/7 with specialized trauma care and ambulance services.
+
+Q: Can I cancel or reschedule my appointment?
+A: Yes, you can cancel or reschedule by calling +1-234-567-8900 or through the chatbot. Please provide at least 24 hours notice.

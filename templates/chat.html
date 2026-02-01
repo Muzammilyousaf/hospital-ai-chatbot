@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital AI Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>🏥 Hospital AI</h1>
+            </div>
+            <div class="sidebar-actions">
+                <button class="sidebar-btn" onclick="sendQuickMessage('What are the OPD timings?')">
+                    ⏰ OPD Timings
+                </button>
+                <button class="sidebar-btn" onclick="sendQuickMessage('How do I book an appointment?')">
+                    📅 Book Appointment
+                </button>
+                <button class="sidebar-btn" onclick="sendQuickMessage('What departments are available?')">
+                    👨‍⚕️ Departments
+                </button>
+                <button class="sidebar-btn" onclick="sendQuickMessage('What services do you offer?')">
+                    🏥 Services
+                </button>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="chat-header">
+                <h2>Hospital AI Assistant</h2>
+            </div>
+
+            <div class="chat-container" id="chatContainer">
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message bot-message">
+                        <div class="message-avatar">🤖</div>
+                        <div class="message-content">
+                            <p>Hello! I'm your Hospital AI Assistant. I can help you with:</p>
+                            <ul>
+                                <li>📅 Book appointments</li>
+                                <li>👨‍⚕️ Doctor information</li>
+                                <li>⏰ OPD timings</li>
+                                <li>🏥 Services & facilities</li>
+                                <li>🧾 Patient FAQs</li>
+                            </ul>
+                            <p class="disclaimer"><strong>⚠️ Note:</strong> I provide general information only. I do not provide medical diagnosis or prescriptions.</p>
+                            <p>How can I help you today?</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <textarea 
+                        id="userInput" 
+                        placeholder="Message Hospital AI..." 
+                        rows="1"
+                    ></textarea>
+                    <button id="sendButton" onclick="sendMessage()" title="Send message">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                            <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                </div>
+                <p class="input-footer">⚠️ For medical emergencies, call 108 or visit the Emergency Department immediately.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+
