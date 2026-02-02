@@ -1,5 +1,7 @@
 # 🏥 AI Hospital Chatbot
 
+![Hospital Chatbot Demo](https://github.com/Muzammilyousaf/hospital-ai-chatbot/blob/master/demo-screenshot.png)
+
 **PyTorch + Flask + RAG (100% Free, No Paid APIs)**
 
 This repository provides a **professional, production-style starter setup** for building an **AI-powered hospital chatbot** using **PyTorch**, **Flask**, and **Retrieval-Augmented Generation (RAG)**. The system is fast, secure, offline-capable, and suitable for real hospital environments.
